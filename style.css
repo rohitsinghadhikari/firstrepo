@@ -1,0 +1,12 @@
+/* styles.css */
+body {
+    background: linear-gradient(to right, #6a3093, #a044ff);
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+    margin: 10;
+    padding: 10;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
